@@ -3,7 +3,7 @@ internally uses Jetty as Server, Jersey (JAX-RS implemeentation) Rest Services
 
 # How to run
 1. Run As -> Run Configuration <br/>
-2. Click on Arguments "server config.yml" add into Program arguments<br/>
+2. Click on Arguments copy-> server config.yml <- paste into Program arguments<br/>
 3. Run<br/>
 
 # config.yml?
