@@ -9,6 +9,6 @@ internally uses Jetty as Server, Jersey (JAX-RS implemeentation) Rest Services
 # config.yml?
   Dropwizard application has its own subclass of the Configuration class which specifies environment-specific parameters. These parameters are specified in a YAML configuration file which is deserialized to an instance of your application’s configuration class and validated
   
-# How to check Rest Servcies in app
+# How to check Rest Servcies ?
 1. Get Employees<br/>
   Method: GET Url: http://localhost:8080/dropwizard-demo/api/employee/1 
