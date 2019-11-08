@@ -1,7 +1,7 @@
 # Drop Wizard(Java based Micro Services Framework) demo
 internally uses Jetty as Server, Jersey (JAX-RS implemeentation) Rest Services
 
-# How to run
+# How to run in Eclipse
 1. Run As -> Run Configuration <br/>
 2. Click on Arguments, copy-> server config.yml , Paste into Program arguments <br/>
 3. Run<br/>
